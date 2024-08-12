@@ -2,7 +2,7 @@
 const http = require('http');
 
 // Configure the HTTP server to respond with "Hello World" to all requests.
-const hostname = '0.0.0.0';
+const hostname = '18.207.199.220';
 const port = 3000;
 
 const server = http.createServer((req, res) => {
